@@ -1,0 +1,1 @@
+<p class="footer-text">Viktor Rumiievskyi 51061 © 2023 Copyright</p>
